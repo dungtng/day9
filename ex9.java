@@ -19,3 +19,4 @@ public class ex9 {
 		return 0;
 	}
 }
+// O(n)
